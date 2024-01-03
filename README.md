@@ -1,2 +1,19 @@
-# todo-app-node-jenkins
-A Todo App using Node.js . And making CICD Pipeline using Jenkins And Deploy on Docker.
+# node-todo-cicd
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+
